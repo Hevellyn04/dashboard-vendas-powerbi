@@ -4,7 +4,14 @@
 
 Este projeto consiste no desenvolvimento de um dashboard interativo para análise de vendas de um e-commerce, com o objetivo de transformar dados em informações estratégicas para apoiar a tomada de decisão.
 
-Os dados passaram por uma etapa de preparação no Databricks para garantir maior qualidade das informações e, posteriormente, foram modelados e analisados no Power BI. O dashboard reúne indicadores de desempenho relacionados a vendas, clientes, produtos e logística, permitindo acompanhar a evolução do negócio sob diferentes perspectivas.
+Os dados passaram por uma etapa de preparação no Databricks para garantir maior qualidade das informações e, posteriormente, foram modelados e analisados no Power BI. O dashboard reúne indicadores de desempenho relacionados a vendas, clientes, produtos e logística, permitindo acompanhar a evolução do 
+negócio sob diferentes perspectivas.
+
+## Fonte dos dados
+
+Dataset: Olist E-commerce Public Dataset  
+Fonte: Kaggle
+
 
 ## Tecnologias utilizadas
 
