@@ -11,6 +11,7 @@ Os dados passaram por uma etapa de preparação no Databricks para garantir maio
 * Power BI
 * DAX
 * Databricks
+* Figma
 
 ## Competências demonstradas
 
